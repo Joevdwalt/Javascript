@@ -23,8 +23,10 @@ One you have node js installed you can run your first program by simply typing t
 $ node 
 ```
 
-This will open the REPL editor for node js and allows yout to run arbitrary commands. Try running the following in the REPL environment 
+This will open the [REPL](https://en.wikipedia.org/wiki/Read%E2%80%93eval%E2%80%93print_loop) editor for node js and allows yout to run arbitrary commands. Try running the following in the REPL environment 
 
 ``` node  
 console.log('hello world');
 ```
+
+For the rest of this book we will not use the REPL environment but would rather save js (javascript) to a file. 
