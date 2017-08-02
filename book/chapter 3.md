@@ -1,4 +1,4 @@
-## JavaScript syntax basic
+## JavaScript syntax basics
 A program does has multiple lines. Each line ends in a semi-colon or ;. 
 
 Example: 
