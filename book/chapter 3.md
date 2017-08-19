@@ -1,4 +1,4 @@
-## JavaScript syntax basics
+# JavaScript syntax basics
 A program does has multiple lines. Each line ends in a semi-colon or ;. 
 
 Example: 
@@ -59,7 +59,20 @@ console.log(price);
 $ node ./chapter_3.js
 ```
 
+## Functions and parameters 
+When building programs, we don't want all our code in one place. We try to apply the concept of not repeating ourselfs (dry - don't repeat yourself). The reason for this are plentiful and is outside the scope of this book. 
 
+A way to logically group functionality is to write the code in a function. In simple term a function is a set of programming instructions the you can invoke at different places in your program code. 
+
+The syntax for a javascript function as follows. 
+
+``` javascript
+    function HelloWorld(){
+        console.log('hello world');
+    }
+```
+
+To invoke a function you can "call"
 
 
 
