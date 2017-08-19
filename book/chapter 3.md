@@ -30,10 +30,37 @@ In the example I have declared a variable called price. After I have declared th
 
 Example:
 
-```
+``` javascript
 var price;
 price = 20;
 ```
+
+Using the console I can print the value of price
+
+``` javascript
+var price;
+price = 20;
+console.log(price); 
+```
+
+Running the example: 
+1. create a new file called chapter_3.js
+2. copy the following into the file 
+
+``` javascript
+var price;
+price = 20;
+console.log(price); 
+```
+
+3. run the command node ./chapter_3.js
+
+``` bashshell
+$ node ./chapter_3.js
+```
+
+
+
 
 
 
